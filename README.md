@@ -1,3 +1,2 @@
 # AndroidWork
-
-# FirstCommand
+使用Android Studio打开
